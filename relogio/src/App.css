@@ -1,0 +1,36 @@
+.relogio{
+  font-size: 1em;
+  padding: 10px 20px;
+  font-family: 'Courier New', Courier, monospace;
+  /* Estilos para centralizar o relógio */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.time {
+  text-align: center;
+  font-size: 3em;
+  padding: 10px 20px;
+  background: #333;
+  color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.date {
+  text-align: center;
+  font-size: 3em;
+  padding: 10px 20px;
+  background: #333;
+  color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.ge{
+  color: rgb(37, 100, 37);
+}
+ .msg{
+  color: blue;
+}
